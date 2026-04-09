@@ -1,0 +1,11 @@
+Model Information:
+* title:	DRESS
+* source:	https://sketchfab.com/3d-models/dress-94fda1c2e0714b878f27f745b2a61c1f
+* author:	Toxic (https://sketchfab.com/wutianci)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "DRESS" (https://sketchfab.com/3d-models/dress-94fda1c2e0714b878f27f745b2a61c1f) by Toxic (https://sketchfab.com/wutianci) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
