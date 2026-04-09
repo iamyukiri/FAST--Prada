@@ -1,0 +1,11 @@
+Model Information:
+* title:	prada boots
+* source:	https://sketchfab.com/3d-models/prada-boots-f34f746a6abf423ba99c75c78aa6d977
+* author:	makotofalcon (https://sketchfab.com/makotofalcon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "prada boots" (https://sketchfab.com/3d-models/prada-boots-f34f746a6abf423ba99c75c78aa6d977) by makotofalcon (https://sketchfab.com/makotofalcon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
