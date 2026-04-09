@@ -1,0 +1,11 @@
+Model Information:
+* title:	PRADA BAG
+* source:	https://sketchfab.com/3d-models/prada-bag-853d1cb3a5904b22ab404b92a2281210
+* author:	Animated_Ninja (https://sketchfab.com/Animated_Ninja)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PRADA BAG" (https://sketchfab.com/3d-models/prada-bag-853d1cb3a5904b22ab404b92a2281210) by Animated_Ninja (https://sketchfab.com/Animated_Ninja) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
